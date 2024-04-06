@@ -18,4 +18,5 @@ https://paypal.me/bebinh1611?country.x=VN&locale.x=en_US
 
 # Lưu ý:
 Project được viết với mục đích học hỏi, tôi không chịu trách nhiệm trước mọi vấn đề, hành động nào được sử dụng với mục đích trái pháp luật.
-This project is created for educational purposes. I am not responsible for any illegal or unethical use of this application.
+
+This project is intended for learning purposes, I am not responsible for any issues or actions used for illegal purposes
